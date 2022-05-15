@@ -1,4 +1,4 @@
-# dice_game
+# Dice game
 
 This is an interactive app. You can us this in board games or in any game as suppose. 
 
